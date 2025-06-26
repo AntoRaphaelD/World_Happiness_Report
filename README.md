@@ -1,5 +1,10 @@
 # World_Happiness_Report
 
+## Datasets:
+[2015 Global Open Data Index](https://www.kaggle.com/datasets/okfn/open-data)
+
+[World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness)
+
 ## Visualizing the Top 10 Most Open Countries
 This code snippet creates a visually enhanced table to showcase the top 10 most open countries using the merged dataset open_data_happiness. The goal is to analyze how openness correlates with other well-being indicators like happiness, GDP, health, and freedom.
 
